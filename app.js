@@ -1,6 +1,6 @@
 /* ====== CONFIG ====== */
 const DATASET_URL = "dataset-ntdl.json";     // đặt đúng tên file JSON của bạn
-const IMG_DIR = "Ảnh không nametag";         // thư mục ảnh .jpg
+const IMG_DIR = "nonenametag";         // thư mục ảnh .jpg
 
 /* ====== STATE ====== */
 const st = {
