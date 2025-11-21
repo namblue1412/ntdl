@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Nam học NTDL</title>
+  <link rel="stylesheet" href="style.css" />
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="container row gap">
+      <h1 class="brand">Nhận thức dược liệu</h1>
+      <nav class="seg">
+        <input type="radio" id="tabBrowse" name="tab" checked>
+        <label for="tabBrowse">Tra cứu</label>
+        <input type="radio" id="tabLearn" name="tab">
+        <label for="tabLearn">Học & Thi</label>
+      </nav>
+      <div class="grow"></div>
+      <div id="imgStatus" class="badge clickable" title="Bấm để quét & xem chi tiết">Ảnh: —/—</div>
+      <button id="btnScan" class="btn ghost">Quét ảnh</button>
+    </div>
+  </header>
+
+  <!-- TRA CỨU -->
+  <section id="pageBrowse" class="page on">
+    <div class="container">
+      <div class="row gap wrap controls">
+        <input id="qBrowse" class="input" placeholder="Tìm theo tên Việt/Latin, công dụng, TPHH… (giữ thứ tự JSON)">
+        <button id="btnClearBrowse" class="btn ghost">Xoá</button>
+      </div>
+      <div id="browseList" class="gridCards"></div>
+    </div>
+  </section>
+
+  <!-- HỌC & THI -->
+  <section id="pageLearn" class="page">
+    <main class="container grid2">
+      <!-- LEFT: chọn danh sách -->
+      <section class="panel">
+        <div class="row gap wrap controls">
+          <button id="btnSelectAll" class="btn">Chọn tất</button>
+          <button id="btnUnselect" class="btn ghost">Bỏ chọn</button>
+          <button id="btnStartAll" class="btn strong">Học tất cả</button>
+          <button id="btnExam10" class="btn strong">Thi 10 câu</button>
+        </div>
+
+        <div class="row gap wrap controls">
+          <label>STT từ <input id="sttFrom" class="input w80" type="number" min="1"></label>
+          <label>đến <input id="sttTo" class="input w80" type="number" min="1"></label>
+          <button id="btnPickRange" class="btn">Chọn theo STT</button>
+          <button id="btnLearnRange" class="btn">Học theo STT</button>
+        </div>
+
+        <div class="row gap wrap controls">
+          <input id="qLearn" class="input" placeholder="Lọc nhanh trong danh sách học">
+          <button id="btnClearLearn" class="btn ghost">Xoá</button>
+        </div>
+
+        <div id="list" class="list"></div>
+
+        <div class="row gap wrap controls">
+          <button id="btnStartSelected" class="btn strong">Bắt đầu học (đã chọn)</button>
+        </div>
+      </section>
+
+      <!-- RIGHT: vùng học/thi -->
+      <section class="panel">
+        <div class="row gap wrap controls">
+          <!-- bỏ trắc nghiệm: chỉ còn flashcard + thi tự luận -->
+          <div id="counter" class="muted">—</div>
+          <div class="grow"></div>
+          <button id="btnPrev" class="btn ghost">← Trước</button>
+          <button id="btnNext" class="btn">Tiếp →</button>
+          <button id="btnShow" class="btn ghost">👁 Hiện đáp án</button>
+          <button id="btnSubmit" class="btn strong hide">Nộp bài</button>
+        </div>
+
+        <div id="card" class="card">
+          <div class="placeholder">(Chưa bắt đầu)</div>
+        </div>
+      </section>
+    </main>
+  </section>
+
+  <!-- MODAL: danh sách ảnh lỗi -->
+  <dialog id="diagMissing">
+    <div class="row gap">
+      <h3>Ảnh chưa đọc được</h3>
+      <div class="grow"></div>
+      <button id="closeDiag" class="btn ghost">Đóng</button>
+    </div>
+    <div id="missBody" class="missBody"></div>
+  </dialog>
+
+  <footer class="container foot">
+  </footer>
+</body>
+</html>
