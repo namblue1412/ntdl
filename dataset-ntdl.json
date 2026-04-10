@@ -210,17 +210,6 @@
       "image": "duoclieu2/bachgioitu.jpg"
     },
     {
-      "stt": 20,
-      "vn": "Tục đoạn",
-      "en": "Dipsacus japonicus",
-      "family": "Caprifoliaceae",
-      "parts": "Rễ",
-      "constituents": "Iridoid (Dipsanosid A,B)",
-      "uses": "Chữa đau lưng, gãy xương, di tinh, an thai",
-      "image_code": "tucdoan.jpg",
-      "image": "duoclieu2/tucdoan.jpg"
-    },
-    {
       "stt": 21,
       "vn": "Khiên ngưu",
       "en": "Ipomoea nil",
@@ -461,17 +450,6 @@
       "uses": "Thuốc hồi dương, trị tê thấp, nhức mỏi",
       "image_code": "odau.jpg",
       "image": "duoclieu2/odau.jpg"
-    },
-    {
-      "stt": 43,
-      "vn": "Thăng ma",
-      "en": "Actaea cimicifuga",
-      "family": "Ranunculaceae",
-      "parts": "Thân rễ",
-      "constituents": "Terpenoid (Cimigenol)",
-      "uses": "Chữa trĩ, nhức răng, loét miệng, sốt rét",
-      "image_code": "thangma.jpg",
-      "image": "duoclieu2/thangma.jpg"
     },
     {
       "stt": 44,
