@@ -6,7 +6,7 @@
       "en": "Hydnocarpus anthelminthicus",
       "family": "Achariaceae",
       "parts": "Hạt",
-      "constituents": "Dầu béo, triterpen",
+      "constituents": "Chất béo (Acid hydropcarpic)",
       "uses": "Chữa hùi, lao da",
       "image_code": "daiphongtu.jpg",
       "image": "duoclieu2/daiphongtu.jpg"
@@ -17,7 +17,7 @@
       "en": "Acorus calamus",
       "family": "Acoraceae",
       "parts": "Thân rễ",
-      "constituents": "Tinh dầu, sesquiterpen",
+      "constituents": "Tinh dầu (α-asarone)",
       "uses": "Kích thích tiêu hóa, lợi tiểu, trị cảm, viêm phổi",
       "image_code": "thuyxuongbo.jpg",
       "image": "duoclieu2/thuyxuongbo.jpg"
@@ -28,7 +28,7 @@
       "en": "Acorus gramineus",
       "family": "Acoraceae",
       "parts": "Thân rễ",
-      "constituents": "Tinh dầu, α-asaron",
+      "constituents": "Tinh dầu (α-asarone)",
       "uses": "Trị động kinh, phong thấp, lợi tiểu",
       "image_code": "thachxuongbo.jpg",
       "image": "duoclieu2/thachxuongbo.jpg"
@@ -37,9 +37,9 @@
       "stt": 4,
       "vn": "Tỏi",
       "en": "Allium sativum",
-      "family": "Alliaceae",
+      "family": "Amaryllidaceae",
       "parts": "Thân hành",
-      "constituents": "Alliin, flavonoid",
+      "constituents": "Tinh dầu (Allicin)",
       "uses": "Chữa lỵ amib, phòng cao huyết áp, xơ vữa động mạch",
       "image_code": "toi.jpg",
       "image": "duoclieu2/toi.jpg"
@@ -50,7 +50,7 @@
       "en": "Angelica sinensis",
       "family": "Apiaceae",
       "parts": "Rễ củ",
-      "constituents": "Tinh dầu, phenylpropanoid",
+      "constituents": "Tinh dầu, Carbohydrat",
       "uses": "Chữa kinh nguyệt không đều, đau bụng kinh",
       "image_code": "duongquy.jpg",
       "image": "duoclieu2/duongquy.jpg"
@@ -61,7 +61,7 @@
       "en": "Foeniculum vulgare",
       "family": "Apiaceae",
       "parts": "Quả",
-      "constituents": "Tinh dầu (anethol)",
+      "constituents": "Tinh dầu (Anethol)",
       "uses": "Chữa đầy bụng, ăn không tiêu, lợi sữa",
       "image_code": "tieuhoi.jpg",
       "image": "duoclieu2/tieuhoi.jpg"
@@ -72,7 +72,7 @@
       "en": "Ligusticum striatum",
       "family": "Apiaceae",
       "parts": "Thân rễ",
-      "constituents": "Tinh dầu, alkaloid (ligustilid)",
+      "constituents": "Tinh dầu, Ligustilid",
       "uses": "Chữa nhức đầu, huyết áp cao, phong thấp",
       "image_code": "xuyenkhung.jpg",
       "image": "duoclieu2/xuyenkhung.jpg"
@@ -83,7 +83,7 @@
       "en": "Pinellia ternata",
       "family": "Araceae",
       "parts": "Thân rễ",
-      "constituents": "Alkaloid (inosin), acid béo",
+      "constituents": "Alkaloid, Pinellosid",
       "uses": "Chữa ho có đờm, hen suyễn, đau dạ dày",
       "image_code": "banhatrungquoc.jpg",
       "image": "duoclieu2/banhatrungquoc.jpg"
@@ -94,7 +94,7 @@
       "en": "Homalomena occulta",
       "family": "Araceae",
       "parts": "Thân rễ",
-      "constituents": "Tinh dầu, acid phenol",
+      "constituents": "Tinh dầu (l-linalol)",
       "uses": "Trị phong thấp, đau khớp, nhức mỏi",
       "image_code": "thiennienkien.jpg",
       "image": "duoclieu2/thiennienkien.jpg"
@@ -105,7 +105,7 @@
       "en": "Typhonium trilobatum",
       "family": "Araceae",
       "parts": "Thân rễ",
-      "constituents": "Alkaloid, các hợp chất phenol",
+      "constituents": "Alkaloid, Flavonoid",
       "uses": "Chữa ho nhiều đờm, buồn nôn, nôn",
       "image_code": "banhavietnam.jpg",
       "image": "duoclieu2/banhavietnam.jpg"
@@ -116,7 +116,7 @@
       "en": "Areca catechu",
       "family": "Arecaceae",
       "parts": "Hạt",
-      "constituents": "Dầu béo, alkaloid (arecolin)",
+      "constituents": "Alkaloid (Arecolin)",
       "uses": "Trị giun sán cho gia súc, gia cầm",
       "image_code": "cau.jpg",
       "image": "duoclieu2/cau.jpg"
@@ -127,7 +127,7 @@
       "en": "Artemisia capillaris",
       "family": "Asteraceae",
       "parts": "Toàn cây",
-      "constituents": "Tinh dầu, acid phenol",
+      "constituents": "Coumarin (Capillaricin)",
       "uses": "Giải nhiệt, lợi mật, trị viêm gan vàng da",
       "image_code": "nhantranbac.jpg",
       "image": "duoclieu2/nhantranbac.jpg"
@@ -138,7 +138,7 @@
       "en": "Artemisia vulgaris",
       "family": "Asteraceae",
       "parts": "Phần trên mặt đất",
-      "constituents": "Tinh dầu (cineol, borneol)",
+      "constituents": "Tinh dầu (Cineol)",
       "uses": "Chữa kinh nguyệt không đều, băng huyết",
       "image_code": "ngaicuu.jpg",
       "image": "duoclieu2/ngaicuu.jpg"
@@ -149,7 +149,7 @@
       "en": "Atractylodes macrocephala",
       "family": "Asteraceae",
       "parts": "Thân rễ",
-      "constituents": "Sesquiterpenoid (atractylenolid), triterpenoid",
+      "constituents": "Terpenoid (Atractylenolid I-VII)",
       "uses": "Trị tiêu hóa kém, tiêu chảy, đau dạ dày",
       "image_code": "bachtruat.jpg",
       "image": "duoclieu2/bachtruat.jpg"
@@ -160,7 +160,7 @@
       "en": "Chrysanthemum indicum",
       "family": "Asteraceae",
       "parts": "Hoa",
-      "constituents": "Tinh dầu (camphor), sesquiterpen",
+      "constituents": "Tinh dầu (Chrysanthenon)",
       "uses": "Thanh nhiệt, giải độc, chữa cảm lạnh",
       "image_code": "cuchoa.jpg",
       "image": "duoclieu2/cuchoa.jpg"
@@ -171,7 +171,7 @@
       "en": "Saussurea costus",
       "family": "Asteraceae",
       "parts": "Rễ",
-      "constituents": "Tinh dầu (costus lacton), alkaloid",
+      "constituents": "Alkaloid (Saussurin)",
       "uses": "Trị đau bụng, khó tiêu, tiêu chảy, bí tiểu",
       "image_code": "mochuong.jpg",
       "image": "duoclieu2/mochuong.jpg"
@@ -182,7 +182,7 @@
       "en": "Tussilago farfara",
       "family": "Asteraceae",
       "parts": "Cụm hoa chưa nở",
-      "constituents": "Alkaloid, tinh dầu",
+      "constituents": "Alkaloid (Tussilagin)",
       "uses": "Chữa ho, giảm đau họng, hen suyễn",
       "image_code": "khoandonghoa.jpg",
       "image": "duoclieu2/khoandonghoa.jpg"
@@ -193,7 +193,7 @@
       "en": "Xanthium strumarium",
       "family": "Asteraceae",
       "parts": "Quả",
-      "constituents": "Sesquiterpen lacton (xanthinin)",
+      "constituents": "Tinh dầu, Xanthinin",
       "uses": "Chữa đau đầu, tê thấp, đau răng, bướu cổ",
       "image_code": "kedaungua.jpg",
       "image": "duoclieu2/kedaungua.jpg"
@@ -204,7 +204,7 @@
       "en": "Sinapis alba",
       "family": "Brassicaceae",
       "parts": "Hạt",
-      "constituents": "Alkaloid (sinapsin), tinh dầu",
+      "constituents": "Alkaloid (Sinapin)",
       "uses": "Chữa ho nhiều đờm, ho suyễn, đau tức ngực",
       "image_code": "bachgioitu.jpg",
       "image": "duoclieu2/bachgioitu.jpg"
@@ -215,7 +215,7 @@
       "en": "Ipomoea nil",
       "family": "Convolvulaceae",
       "parts": "Hạt",
-      "constituents": "Resin glycosid, lipid-glycosid, Alkaloid",
+      "constituents": "Resin glycosid (Pharbitin)",
       "uses": "Nhuận tràng, tẩy xổ, lợi tiểu",
       "image_code": "khiennguu.jpg",
       "image": "duoclieu2/khiennguu.jpg"
@@ -226,7 +226,7 @@
       "en": "Cuscuta australis",
       "family": "Cuscutaceae",
       "parts": "Hạt",
-      "constituents": "Chất nhựa (cuscutin), alkaloid",
+      "constituents": "Alkaloid (Cuscutamin)",
       "uses": "Trị xơ cứng động mạch vành, suy nhược thần kinh",
       "image_code": "thotytu.jpg",
       "image": "duoclieu2/thotytu.jpg"
@@ -237,7 +237,7 @@
       "en": "Cyperus rotundus",
       "family": "Cyperaceae",
       "parts": "Thân rễ",
-      "constituents": "Tinh dầu, sesquiterpen",
+      "constituents": "Tinh dầu (Cyperon)",
       "uses": "Chữa kinh nguyệt không đều, đau bụng kinh",
       "image_code": "huongphu.jpg",
       "image": "duoclieu2/huongphu.jpg"
@@ -258,8 +258,8 @@
       "vn": "Long đởm",
       "en": "Gentiana scabra",
       "family": "Gentianaceae",
-      "parts": "Thân rễ",
-      "constituents": "Secoiridoid, polysaccharid",
+      "parts": "Rễ",
+      "constituents": "Iridoid (Gentiopicrosid)",
       "uses": "Tiêu hóa, chữa sốt, đau mắt đỏ nhức",
       "image_code": "longdom.jpg",
       "image": "duoclieu2/longdom.jpg"
@@ -269,8 +269,8 @@
       "vn": "Ích mẫu",
       "en": "Leonurus japonicus",
       "family": "Lamiaceae",
-      "parts": "Phần trên mặt đất (ích mẫu thảo)",
-      "constituents": "Tinh dầu, Alkaloid (leonurin)",
+      "parts": "Phần trên mặt đất",
+      "constituents": "Alkaloid (Leonurin)",
       "uses": "Điều hòa kinh nguyệt, chữa đau bụng kinh",
       "image_code": "ichmau.jpg",
       "image": "duoclieu2/ichmau.jpg"
@@ -281,7 +281,7 @@
       "en": "Vitex trifolia",
       "family": "Lamiaceae",
       "parts": "Quả",
-      "constituents": "Tinh dầu, diterpen",
+      "constituents": "Flavonoid (Vitexin)",
       "uses": "Trị cảm sốt, đau đầu, tiêu chảy",
       "image_code": "mankinhtu.jpg",
       "image": "duoclieu2/mankinhtu.jpg"
@@ -292,7 +292,7 @@
       "en": "Cinnamomum cassia",
       "family": "Lauraceae",
       "parts": "Vỏ thân",
-      "constituents": "Tinh dầu (aldehyd cinnamic)",
+      "constituents": "Tinh dầu (Cinnamaldehyd)",
       "uses": "Trị tiêu hóa kém, tiêu chảy, đau dạ dày",
       "image_code": "que.jpg",
       "image": "duoclieu2/que.jpg"
@@ -303,7 +303,7 @@
       "en": "Strychnos nux-vomica",
       "family": "Loganiaceae",
       "parts": "Hạt",
-      "constituents": "Alkaloid (strychnin, brucin), dầu béo",
+      "constituents": "Alkaloid (Strychnin)",
       "uses": "Dùng trong bệnh suy nhược, chất bổ đắng",
       "image_code": "matien.jpg",
       "image": "duoclieu2/matien.jpg"
@@ -314,7 +314,7 @@
       "en": "Coscinium fenestratum",
       "family": "Menispermaceae",
       "parts": "Thân",
-      "constituents": "Alkaloid (berberin)",
+      "constituents": "Alkaloid (Berberin)",
       "uses": "Chữa sốt, lỵ, trợ tiêu hóa",
       "image_code": "vangdang.jpg",
       "image": "duoclieu2/vangdang.jpg"
@@ -325,7 +325,7 @@
       "en": "Stephania glabra",
       "family": "Menispermaceae",
       "parts": "Củ",
-      "constituents": "Alkaloid (rotundin)",
+      "constituents": "Alkaloid (Stepharin)",
       "uses": "Thuốc an thần, giảm đau, trị nhức mỏi",
       "image_code": "binhvoi.jpg",
       "image": "duoclieu2/binhvoi.jpg"
@@ -336,7 +336,7 @@
       "en": "Stephania tetrandra",
       "family": "Menispermaceae",
       "parts": "Rễ củ",
-      "constituents": "Alkaloid (tetrandrin)",
+      "constituents": "Alkaloid (Tetrandrin)",
       "uses": "Trị thủy thũng, cước khí do phong thấp",
       "image_code": "phongky.jpg",
       "image": "duoclieu2/phongky.jpg"
@@ -347,7 +347,7 @@
       "en": "Tinospora sinensis",
       "family": "Menispermaceae",
       "parts": "Thân",
-      "constituents": "Sesquiterpen, alkaloid (berberin)",
+      "constituents": "Alkaloid (Berberin)",
       "uses": "Chữa sai khớp, bong gân, trị rắn cắn",
       "image_code": "thanthong.jpg",
       "image": "duoclieu2/thanthong.jpg"
@@ -358,7 +358,7 @@
       "en": "Myristica fragrans",
       "family": "Myristicaceae",
       "parts": "Nhân hạt",
-      "constituents": "Chất béo, hợp chất phenylpropan",
+      "constituents": "Chất béo, Tinh dầu",
       "uses": "Chữa kiết lỵ, tiêu chảy, biếng ăn",
       "image_code": "nhucdaukhau.jpg",
       "image": "duoclieu2/nhucdaukhau.jpg"
@@ -369,7 +369,7 @@
       "en": "Syzygium aromaticum",
       "family": "Myrtaceae",
       "parts": "Nụ hoa",
-      "constituents": "Tinh dầu (eugenol), flavonoid",
+      "constituents": "Tinh dầu (Eugenol)",
       "uses": "Thuốc kích thích tiêu hóa, chữa phong thấp",
       "image_code": "dinhhuong.jpg",
       "image": "duoclieu2/dinhhuong.jpg"
@@ -380,7 +380,7 @@
       "en": "Nelumbo nucifera",
       "family": "Nelumbonaceae",
       "parts": "Tâm sen",
-      "constituents": "Alkaloid (nuciferin)",
+      "constituents": "Alkaloid (Nuciferin)",
       "uses": "Chữa sốt khát nước, huyết áp cao, mất ngủ",
       "image_code": "tamsen.jpg",
       "image": "duoclieu2/tamsen.jpg"
@@ -391,7 +391,7 @@
       "en": "Dendrobium spp.",
       "family": "Orchidaceae",
       "parts": "Thân",
-      "constituents": "Alkaloid, hợp chất phenol",
+      "constituents": "Alkaloid (Dendrobin)",
       "uses": "Chữa sốt nóng, khô cổ, trị suy nhược thần kinh",
       "image_code": "thachhoc.jpg",
       "image": "duoclieu2/thachhoc.jpg"
@@ -402,7 +402,7 @@
       "en": "Corydalis turtschaninovii",
       "family": "Papaveraceae",
       "parts": "Thân rễ",
-      "constituents": "Alkaloid (berberin)",
+      "constituents": "Alkaloid (Corydalin)",
       "uses": "Phá huyết ứ, điều huyết, chữa đau nhức",
       "image_code": "dienhosach.jpg",
       "image": "duoclieu2/dienhosach.jpg"
@@ -413,7 +413,7 @@
       "en": "Sesamum indicum",
       "family": "Pedaliaceae",
       "parts": "Hạt",
-      "constituents": "Dầu béo, sesamin",
+      "constituents": "Chất béo, Sesamin",
       "uses": "Chữa táo bón, tăng cường dinh dưỡng",
       "image_code": "me.jpg",
       "image": "duoclieu2/me.jpg"
@@ -424,7 +424,7 @@
       "en": "Piper nigrum",
       "family": "Piperaceae",
       "parts": "Quả",
-      "constituents": "Alkaloid (piperin)",
+      "constituents": "Alkaloid (Piperin)",
       "uses": "Làm gia vị, kích thích tiêu hóa",
       "image_code": "hotieu.jpg",
       "image": "duoclieu2/hotieu.jpg"
@@ -435,7 +435,7 @@
       "en": "Adenosma bracteosum",
       "family": "Plantaginaceae",
       "parts": "Toàn cây trừ rễ",
-      "constituents": "Tinh dầu, acid phenol",
+      "constituents": "Tinh dầu (Cineol)",
       "uses": "Trị sốt, cảm cúm, viêm gan vàng da",
       "image_code": "nhantrantia.jpg",
       "image": "duoclieu2/nhantrantia.jpg"
@@ -446,7 +446,7 @@
       "en": "Aconitum chinense",
       "family": "Ranunculaceae",
       "parts": "Rễ củ",
-      "constituents": "C19-diterpen alkaloid (aconitin), C20-diterpenoid alkaloid",
+      "constituents": "Alkaloid (Aconitin)",
       "uses": "Thuốc hồi dương, trị tê thấp, nhức mỏi",
       "image_code": "odau.jpg",
       "image": "duoclieu2/odau.jpg"
@@ -457,7 +457,7 @@
       "en": "Coptis chinensis",
       "family": "Ranunculaceae",
       "parts": "Thân rễ",
-      "constituents": "Alkaloid (berberin)",
+      "constituents": "Alkaloid (Coptisin)",
       "uses": "Chữa tiêu hóa kém, viêm loét dạ dày",
       "image_code": "hoanglienchanga.jpg",
       "image": "duoclieu2/hoanglienchanga.jpg"
@@ -467,8 +467,8 @@
       "vn": "Táo nhân",
       "en": "Ziziphus jujuba",
       "family": "Rhamnaceae",
-      "parts": "Hạt",
-      "constituents": "Alkaloid, triterpenoid",
+      "parts": "Nhân hạt",
+      "constituents": "Chất béo, Vitamin A",
       "uses": "An thần, chữa hồi hộp, mất ngủ",
       "image_code": "taonhan.jpg",
       "image": "duoclieu2/taonhan.jpg"
@@ -479,7 +479,7 @@
       "en": "Prunus armeniaca",
       "family": "Rosaceae",
       "parts": "Quả",
-      "constituents": "Acid hữu cơ, vitamin C",
+      "constituents": "Acid hữu cơ, Vitamin C",
       "uses": "Trị ho, lỵ, đau bụng, tiêu chảy mạn",
       "image_code": "mo.jpg",
       "image": "duoclieu2/mo.jpg"
@@ -490,7 +490,7 @@
       "en": "Coffea arabica",
       "family": "Rubiaceae",
       "parts": "Hạt",
-      "constituents": "Alkaloid (cafein)",
+      "constituents": "Alkaloid (Cafein)",
       "uses": "Kích thích thần kinh, lợi tiểu, trợ tiêu hóa",
       "image_code": "caphe.jpg",
       "image": "duoclieu2/caphe.jpg"
@@ -500,9 +500,9 @@
       "vn": "Câu đằng",
       "en": "Uncaria rhynchophylla",
       "family": "Rubiaceae",
-      "parts": "Cành với 2 gai móc câu",
-      "constituents": "Alkaloid (rhynchophyllin), hợp chất phenol iso-rhynchophyllin",
-      "uses": "Thuốc hạ huyết áp, chữa trẻ em bị kinh giật chân tay co quắp",
+      "parts": "Đoạn cành với 2 gai móc câu",
+      "constituents": "Alkaloid (Rhynchophyllin)",
+      "uses": "Thuốc hạ huyết áp, chữa trẻ em bị kinh giật",
       "image_code": "caudang.jpg",
       "image": "duoclieu2/caudang.jpg"
     },
@@ -511,8 +511,8 @@
       "vn": "Vỏ quýt",
       "en": "Citrus reticulata",
       "family": "Rutaceae",
-      "parts": "Vỏ quýt (trần bì)",
-      "constituents": "Tinh dầu, flavonoid",
+      "parts": "Trần bì",
+      "constituents": "Tinh dầu, Flavonoid",
       "uses": "Chữa ho nhiều đờm, đầy bụng, tiêu chảy",
       "image_code": "voquyt.jpg",
       "image": "duoclieu2/voquyt.jpg"
@@ -523,7 +523,7 @@
       "en": "Phellodendron amurense",
       "family": "Rutaceae",
       "parts": "Vỏ thân",
-      "constituents": "Alkaloid (berberin)",
+      "constituents": "Alkaloid (Phellodendron)",
       "uses": "Trị sốt, đau, viêm gan mạn",
       "image_code": "hoangba.jpg",
       "image": "duoclieu2/hoangba.jpg"
@@ -534,7 +534,7 @@
       "en": "Illicium verum",
       "family": "Schisandraceae",
       "parts": "Quả",
-      "constituents": "Tinh dầu, sesquiterpen",
+      "constituents": "Tinh dầu (trans-anethol)",
       "uses": "Tiêu hóa, chữa đau dạ dày, lợi sữa",
       "image_code": "daihoi.jpg",
       "image": "duoclieu2/daihoi.jpg"
@@ -545,7 +545,7 @@
       "en": "Brucea javanica",
       "family": "Simaroubaceae",
       "parts": "Quả",
-      "constituents": "Quassinoid, triterpenoid",
+      "constituents": "Quassinoid (Bruceantin)",
       "uses": "Trị kiết lỵ amip, sốt rét, mụn nhọt",
       "image_code": "nhadamtuy.jpg",
       "image": "duoclieu2/nhadamtu.jpg"
@@ -556,7 +556,7 @@
       "en": "Stemona tuberosa",
       "family": "Stemonaceae",
       "parts": "Rễ củ",
-      "constituents": "Alkaloid (stemonin), acid hữu cơ",
+      "constituents": "Alkaloid (Stemonin)",
       "uses": "Chữa ho lâu ngày, ho gà",
       "image_code": "bachbo.jpg",
       "image": "duoclieu2/bachbo.jpg"
@@ -567,7 +567,7 @@
       "en": "Amomum aromaticum",
       "family": "Zingiberaceae",
       "parts": "Quả",
-      "constituents": "Tinh dầu (cineol, geraniol)",
+      "constituents": "Tinh dầu (Cineol)",
       "uses": "Thuốc chữa đau bụng đầy trướng, tiêu chảy",
       "image_code": "thaoqua.jpg",
       "image": "duoclieu2/thaoqua.jpg"
@@ -589,7 +589,7 @@
       "en": "Curcuma zedoaria",
       "family": "Zingiberaceae",
       "parts": "Thân rễ",
-      "constituents": "Tinh dầu, chất nhựa, curcumin",
+      "constituents": "Tinh dầu (Zingiberen)",
       "uses": "Chữa khó tiêu, đầy bụng, kinh không đều",
       "image_code": "ngatruat.jpg",
       "image": "duoclieu2/ngatruat.jpg"
@@ -600,7 +600,7 @@
       "en": "Kaempferia galanga",
       "family": "Zingiberaceae",
       "parts": "Thân rễ",
-      "constituents": "Tinh dầu (p-methoxymethyl-cinnamat)",
+      "constituents": "Tinh dầu (p-methoxyethylcinnamat)",
       "uses": "Trị ăn không tiêu, tiêu chảy, ho gà",
       "image_code": "dialien.jpg",
       "image": "duoclieu2/dialien.jpg"
@@ -610,8 +610,8 @@
       "vn": "Bạch cương tằm",
       "en": "Bombyx mori",
       "family": "Bombycidae",
-      "parts": "Bạch cương tàm",
-      "constituents": "Ammoni oxalat, corticoid",
+      "parts": "Xác tằm bị bệnh chết do vi khuẩn",
+      "constituents": "Fibrinolysin, Corticoid",
       "uses": "Trị kinh phong, động kinh, co giật",
       "image_code": "bachcuongtam.jpg",
       "image": "duoclieu2/bachcuongtam.jpg"
@@ -621,12 +621,12 @@
       "vn": "Thuyền thoái",
       "en": "Cryptotympana pustulata",
       "family": "Cicadidae",
-      "parts": "Thuyền thoái",
-      "constituents": "Chitin, hợp chất có nitơ",
+      "parts": "Xác lột của ấu trùng ve sầu",
+      "constituents": "Chitin, Hợp chất chứa N",
       "uses": "Hạ sốt, trị cảm, ho, mất tiếng",
       "image_code": "thuyenthoai.jpg",
       "image": "duoclieu2/thuyenthoai.jpg"
     }
   ],
-  "source": "extracted-from-pdf-cay-thuoc (57 items, uses/parts/constituents updated from NHẬN THỨC DƯỢC LIỆU KHÔ 2, missing items 20,43,47 excluded)"
+  "source": "extracted-from-pdf-cay-thuoc (60 items, uses updated from NHẬN THỨC DƯỢC LIỆU KHÔ 2)"
 }
